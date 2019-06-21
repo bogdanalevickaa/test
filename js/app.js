@@ -4,6 +4,7 @@ $('.slider').slick({
 	// autoplay:true,
 	// autoplaySpeed:2000,
 })
+
 $('document').ready(function(){
 	$('#country_name').click(function(){
 	 $('.countries').fadeToggle();
